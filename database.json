@@ -14,5 +14,9 @@
   {
     "number": "",
     "status": "active"
+  },
+  {
+    "number": "&",
+    "status": "active"
   }
 ]
